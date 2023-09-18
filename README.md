@@ -16,8 +16,10 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ------------------------------------
-https://arang95.tistory.com/212
 
-![1](https://github.com/designAR/Flutter_UI_Challenge1/assets/116303386/7cf6b423-d5d4-428c-abdf-200fa97195b0)
+blog  :  https://arang95.tistory.com/212
+
+<img src="![flutter](https://github.com/designAR/Flutter_UI_Challenge1/assets/116303386/5084b320-b69e-4841-b4fc-6966c972d17f)" width="40%">
+
 
 

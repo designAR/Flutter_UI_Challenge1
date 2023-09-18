@@ -19,8 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 
 blog  :  https://arang95.tistory.com/212
 
-<img src="C:\Users\dkfkd\OneDrive\바탕 화면\image\flutter.jpg" width="40%">
-![flutter](https://github.com/designAR/Flutter_UI_Challenge1/assets/116303386/1d24ed8d-eece-4342-b292-1ca22acd8122)
+<img src="![flutter](https://github.com/designAR/Flutter_UI_Challenge1/assets/116303386/ca8354fc-9338-472d-9d6e-27b14a06255d)" width="200" height="400"/>
+
 
 
 

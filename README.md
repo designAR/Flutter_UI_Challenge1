@@ -19,6 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 
 blog  :  https://arang95.tistory.com/212
 
-<center><img src="https://github.com/designAR/Flutter_UI_Challenge1/assets/116303386/ca8354fc-9338-472d-9d6e-27b14a06255d)" width="500" height="500"/></center>
+<center><img src="https://github.com/designAR/Flutter_UI_Challenge1/assets/116303386/ca8354fc-9338-472d-9d6e-27b14a06255d)" width="500" height="500"></center>
 
 
